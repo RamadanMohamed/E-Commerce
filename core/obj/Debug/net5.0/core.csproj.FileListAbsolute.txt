@@ -1,0 +1,12 @@
+D:\iti\E comerce\E Comerce project\progect hotel\core\bin\Debug\net5.0\core.deps.json
+D:\iti\E comerce\E Comerce project\progect hotel\core\bin\Debug\net5.0\core.dll
+D:\iti\E comerce\E Comerce project\progect hotel\core\bin\Debug\net5.0\ref\core.dll
+D:\iti\E comerce\E Comerce project\progect hotel\core\bin\Debug\net5.0\core.pdb
+D:\iti\E comerce\E Comerce project\progect hotel\core\obj\Debug\net5.0\core.csproj.AssemblyReference.cache
+D:\iti\E comerce\E Comerce project\progect hotel\core\obj\Debug\net5.0\core.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\E comerce\E Comerce project\progect hotel\core\obj\Debug\net5.0\core.AssemblyInfoInputs.cache
+D:\iti\E comerce\E Comerce project\progect hotel\core\obj\Debug\net5.0\core.AssemblyInfo.cs
+D:\iti\E comerce\E Comerce project\progect hotel\core\obj\Debug\net5.0\core.csproj.CoreCompileInputs.cache
+D:\iti\E comerce\E Comerce project\progect hotel\core\obj\Debug\net5.0\core.dll
+D:\iti\E comerce\E Comerce project\progect hotel\core\obj\Debug\net5.0\ref\core.dll
+D:\iti\E comerce\E Comerce project\progect hotel\core\obj\Debug\net5.0\core.pdb

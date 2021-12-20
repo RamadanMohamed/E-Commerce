@@ -1,0 +1,15 @@
+D:\iti\E comerce\E Comerce project\progect hotel\infrastructure\bin\Debug\net5.0\infrastructure.deps.json
+D:\iti\E comerce\E Comerce project\progect hotel\infrastructure\bin\Debug\net5.0\infrastructure.dll
+D:\iti\E comerce\E Comerce project\progect hotel\infrastructure\bin\Debug\net5.0\ref\infrastructure.dll
+D:\iti\E comerce\E Comerce project\progect hotel\infrastructure\bin\Debug\net5.0\infrastructure.pdb
+D:\iti\E comerce\E Comerce project\progect hotel\infrastructure\bin\Debug\net5.0\core.dll
+D:\iti\E comerce\E Comerce project\progect hotel\infrastructure\bin\Debug\net5.0\core.pdb
+D:\iti\E comerce\E Comerce project\progect hotel\infrastructure\obj\Debug\net5.0\infrastructure.csproj.AssemblyReference.cache
+D:\iti\E comerce\E Comerce project\progect hotel\infrastructure\obj\Debug\net5.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\E comerce\E Comerce project\progect hotel\infrastructure\obj\Debug\net5.0\infrastructure.AssemblyInfoInputs.cache
+D:\iti\E comerce\E Comerce project\progect hotel\infrastructure\obj\Debug\net5.0\infrastructure.AssemblyInfo.cs
+D:\iti\E comerce\E Comerce project\progect hotel\infrastructure\obj\Debug\net5.0\infrastructure.csproj.CoreCompileInputs.cache
+D:\iti\E comerce\E Comerce project\progect hotel\infrastructure\obj\Debug\net5.0\infrastructure.csproj.CopyComplete
+D:\iti\E comerce\E Comerce project\progect hotel\infrastructure\obj\Debug\net5.0\infrastructure.dll
+D:\iti\E comerce\E Comerce project\progect hotel\infrastructure\obj\Debug\net5.0\ref\infrastructure.dll
+D:\iti\E comerce\E Comerce project\progect hotel\infrastructure\obj\Debug\net5.0\infrastructure.pdb
