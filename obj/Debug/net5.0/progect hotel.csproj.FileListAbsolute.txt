@@ -1,0 +1,5 @@
+D:\iti\E comerce\E Comerce project\progect hotel\obj\Debug\net5.0\progect hotel.csproj.AssemblyReference.cache
+D:\iti\E comerce\E Comerce project\progect hotel\obj\Debug\net5.0\progect hotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\E comerce\E Comerce project\progect hotel\obj\Debug\net5.0\progect hotel.AssemblyInfoInputs.cache
+D:\iti\E comerce\E Comerce project\progect hotel\obj\Debug\net5.0\progect hotel.AssemblyInfo.cs
+D:\iti\E comerce\E Comerce project\progect hotel\obj\Debug\net5.0\progect hotel.csproj.CoreCompileInputs.cache
